@@ -21,7 +21,7 @@ From solving algorithmic challenges to creating interactive web experiences, I l
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ## Design & Tools:
-![Tools](https://skillicons.dev/icons?i=figma,unity,flutter)
+![Tools](https://skillicons.dev/icons?i=figma,unity)
 
 ---
 
